@@ -4,4 +4,4 @@
 
 Это первое приложение для
 [*Ruby on Rails Tutorial*](http://railstutorial.org/) от
- [Майкл Хартл](http://michaelhartl.com/). and Ievgenii Vorobiov
+ [Майкл Хартл](http://michaelhartl.com/) и Ievgenii Vorobiov
